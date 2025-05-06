@@ -9,7 +9,8 @@ main()
 
 	printf("\t\t...CALCULO FORMA DE PAGAMENTO DE PRODUTOS...\n\n")
 	
-		do{	
+		do
+		{	
 			printf("Digite o produto: ");
 			scanf("%s", &prod);
 			printf("Digite o Preco: ");
